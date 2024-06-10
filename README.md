@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Jan</h1>
-<h3 align="center">✨Pakistan-based front-end developer, passionate about building innovative web experiences. Open to freelance gigs and collaboration opportunities.A passionate frontend developer from India</h3>
+<h3 align="center">✨Pakistan-based front-end developer, passionate about building innovative web experiences. Open to freelance gigs and collaboration opportunities.A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaan0&label=Profile%20views&color=0e75b6&style=flat" alt="jaan0" /> </p>
 
