@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaan0" alt="jaan0" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](alijan.vercle.app)
+- 🔭 I’m currently working on [Musicoo](musico-sigma.vercel.app) my music app.
 
 - 🌱 I’m currently learning **NextJs, React.**
 
